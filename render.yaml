@@ -1,6 +1,6 @@
 services:
   - type: web
-    runtime: docker
+    runtime: node
     name: hu-lts
     repo: https://github.com/QuiteAFancyEmerald/Holy-Unblocker
     region: oregon
