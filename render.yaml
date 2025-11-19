@@ -6,3 +6,4 @@ services:
     buildCommand: "npm install"
     startCommand: "npm start"
     plan: free
+    repo: https://github.com/QuiteAFancyEmerald/Holy-Unblocker
